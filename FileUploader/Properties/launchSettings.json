@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileUploader": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\DEVELOP\\CSharp\\TestUpload \\test"
+    }
+  }
+}
